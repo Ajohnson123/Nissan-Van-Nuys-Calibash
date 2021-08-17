@@ -41,6 +41,7 @@
 }
 
 .u-section-2 .u-text-1 {
+  background-image: none;
   margin: 21px auto;
 }.u-section-3 {
   background-image: none;
@@ -63,7 +64,7 @@
 }
 
 .u-section-4 .u-layout-cell-1 {
-  min-height: 571px;
+  min-height: 602px;
 }
 
 .u-section-4 .u-container-layout-1 {
@@ -73,7 +74,7 @@
 .u-section-4 .u-image-1 {
   width: 382px;
   height: 496px;
-  margin: 26px auto 0 -125px;
+  margin: 30px auto 0 -135px;
 }
 
 .u-section-4 .u-layout-cell-2 {
@@ -101,7 +102,7 @@
 .u-section-4 .u-image-3 {
   width: 286px;
   height: 631px;
-  margin: 64px auto -93px -10px;
+  margin: 64px -70px -93px auto;
 }
 
 @media (max-width: 1199px) {
@@ -114,7 +115,7 @@
   }
 
   .u-section-4 .u-layout-cell-1 {
-    min-height: 471px;
+    min-height: 496px;
   }
 
   .u-section-4 .u-layout-cell-2 {
@@ -141,7 +142,7 @@
   }
 
   .u-section-4 .u-layout-cell-1 {
-    min-height: 361px;
+    min-height: 380px;
   }
 
   .u-section-4 .u-image-1 {
@@ -162,12 +163,6 @@
   .u-section-4 .u-layout-cell-3 {
     min-height: 380px;
   }
-
-  .u-section-4 .u-image-3 {
-    width: 240px;
-    height: 529px;
-    margin-left: 0;
-  }
 }
 
 @media (max-width: 767px) {
@@ -176,7 +171,7 @@
   }
 
   .u-section-4 .u-layout-cell-1 {
-    min-height: 812px;
+    min-height: 855px;
   }
 
   .u-section-4 .u-layout-cell-2 {
@@ -199,7 +194,7 @@
   }
 
   .u-section-4 .u-layout-cell-1 {
-    min-height: 511px;
+    min-height: 538px;
   }
 
   .u-section-4 .u-layout-cell-2 {
@@ -636,4 +631,8 @@
 }@font-face {
   font-family: ChosenceBold;
   src: url(./ChosenceBold.otf);
+}
+html *
+{
+   font-family: ChosenceBold !important;
 }
