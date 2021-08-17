@@ -623,11 +623,14 @@
 }
 
 .u-section-10 .u-sheet-1 {
-  min-height: 500px;
+  min-height: 853px;
 }
 
 .u-section-10 .u-custom-html-1 {
-  margin-bottom: 60px;
+  margin-bottom: 46px;
+  height: auto;
+  min-height: 567px;
+  margin-top: 0;
 }@font-face {
   font-family: ChosenceBold;
   src: url(./ChosenceBold.otf);
