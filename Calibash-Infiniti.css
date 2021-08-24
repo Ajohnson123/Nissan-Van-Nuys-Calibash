@@ -88,33 +88,49 @@
 }
 
 .u-section-4 .u-sheet-1 {
+  min-height: 226px;
+}
+
+.u-section-4 .u-btn-1 {
+  border-style: solid;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+  font-weight: 700;
+  margin: 60px auto;
+  padding: 24px 30px;
+}.u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
   min-height: 897px;
 }
 
-.u-section-4 .u-video-1 {
+.u-section-5 .u-video-1 {
   height: 840px;
   width: 1060px;
   margin: 24px auto 34px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-4 .u-video-1 {
+  .u-section-5 .u-video-1 {
     width: 940px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-4 .u-video-1 {
+  .u-section-5 .u-video-1 {
     width: 720px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-4 .u-sheet-1 {
+  .u-section-5 .u-sheet-1 {
     min-height: 549px;
   }
 
-  .u-section-4 .u-video-1 {
+  .u-section-5 .u-video-1 {
     height: 509px;
     width: 636px;
     margin: 20px -48px;
@@ -122,48 +138,48 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-4 .u-sheet-1 {
+  .u-section-5 .u-sheet-1 {
     min-height: 473px;
   }
 
-  .u-section-4 .u-video-1 {
+  .u-section-5 .u-video-1 {
     height: 426px;
     width: 601px;
     margin: 23px -131px 22px;
   }
-}.u-section-5 {
+}.u-section-6 {
   background-image: none;
   min-height: 691px;
 }
 
-.u-section-5 .u-layout-wrap-1 {
+.u-section-6 .u-layout-wrap-1 {
   margin-top: 60px;
   margin-bottom: 60px;
 }
 
-.u-section-5 .u-layout-cell-1 {
+.u-section-6 .u-layout-cell-1 {
   min-height: 602px;
 }
 
-.u-section-5 .u-container-layout-1 {
+.u-section-6 .u-container-layout-1 {
   padding: 0;
 }
 
-.u-section-5 .u-image-1 {
+.u-section-6 .u-image-1 {
   width: 382px;
   height: 496px;
   margin: 30px auto 0 -135px;
 }
 
-.u-section-5 .u-layout-cell-2 {
+.u-section-6 .u-layout-cell-2 {
   min-height: 400px;
 }
 
-.u-section-5 .u-container-layout-2 {
+.u-section-6 .u-container-layout-2 {
   padding: 30px;
 }
 
-.u-section-5 .u-image-2 {
+.u-section-6 .u-image-2 {
   width: 512px;
   height: 512px;
   background-image: url("images/Calibash-2022-Logo.png");
@@ -171,49 +187,49 @@
   margin: 0 auto;
 }
 
-.u-section-5 .u-layout-cell-3 {
+.u-section-6 .u-layout-cell-3 {
   min-height: 602px;
 }
 
-.u-section-5 .u-container-layout-3 {
+.u-section-6 .u-container-layout-3 {
   padding: 0;
 }
 
-.u-section-5 .u-image-3 {
+.u-section-6 .u-image-3 {
   width: 286px;
   height: 631px;
   margin: 64px -70px -93px auto;
 }
 
 @media (max-width: 1199px) {
-  .u-section-5 {
+  .u-section-6 {
     min-height: 661px;
   }
 
-  .u-section-5 .u-layout-wrap-1 {
+  .u-section-6 .u-layout-wrap-1 {
     margin-bottom: 0;
     position: relative;
   }
 
-  .u-section-5 .u-layout-cell-1 {
+  .u-section-6 .u-layout-cell-1 {
     min-height: 496px;
   }
 
-  .u-section-5 .u-layout-cell-2 {
+  .u-section-6 .u-layout-cell-2 {
     min-height: 601px;
   }
 
-  .u-section-5 .u-image-2 {
+  .u-section-6 .u-image-2 {
     width: 482px;
     height: 482px;
     margin-top: 7px;
   }
 
-  .u-section-5 .u-layout-cell-3 {
+  .u-section-6 .u-layout-cell-3 {
     min-height: 601px;
   }
 
-  .u-section-5 .u-image-3 {
+  .u-section-6 .u-image-3 {
     width: 220px;
     height: 630px;
     margin-right: -46px;
@@ -221,96 +237,96 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-5 {
+  .u-section-6 {
     min-height: 531px;
   }
 
-  .u-section-5 .u-layout-cell-1 {
+  .u-section-6 .u-layout-cell-1 {
     min-height: 602px;
   }
 
-  .u-section-5 .u-image-1 {
+  .u-section-6 .u-image-1 {
     width: 204px;
     height: 364px;
     margin-top: 49px;
     margin-left: -64px;
   }
 
-  .u-section-5 .u-layout-cell-2 {
+  .u-section-6 .u-layout-cell-2 {
     min-height: 602px;
   }
 
-  .u-section-5 .u-container-layout-2 {
+  .u-section-6 .u-container-layout-2 {
     padding-left: 0;
     padding-right: 0;
   }
 
-  .u-section-5 .u-image-2 {
+  .u-section-6 .u-image-2 {
     width: 436px;
     height: 436px;
     margin-top: 0;
     margin-right: 55px;
   }
 
-  .u-section-5 .u-layout-cell-3 {
+  .u-section-6 .u-layout-cell-3 {
     min-height: 602px;
   }
 
-  .u-section-5 .u-image-3 {
+  .u-section-6 .u-image-3 {
     height: 631px;
     margin: 69px -42px -98px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-5 {
+  .u-section-6 {
     min-height: 1416px;
   }
 
-  .u-section-5 .u-layout-cell-1 {
+  .u-section-6 .u-layout-cell-1 {
     min-height: 1355px;
   }
 
-  .u-section-5 .u-layout-cell-2 {
+  .u-section-6 .u-layout-cell-2 {
     min-height: 1355px;
   }
 
-  .u-section-5 .u-layout-cell-3 {
+  .u-section-6 .u-layout-cell-3 {
     min-height: 1355px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-5 {
+  .u-section-6 {
     min-height: 994px;
   }
 
-  .u-section-5 .u-layout-cell-1 {
+  .u-section-6 .u-layout-cell-1 {
     min-height: 853px;
   }
 
-  .u-section-5 .u-layout-cell-2 {
+  .u-section-6 .u-layout-cell-2 {
     min-height: 853px;
   }
 
-  .u-section-5 .u-image-2 {
+  .u-section-6 .u-image-2 {
     width: 340px;
     height: 340px;
     margin-right: 0;
   }
 
-  .u-section-5 .u-layout-cell-3 {
+  .u-section-6 .u-layout-cell-3 {
     min-height: 853px;
   }
-}.u-section-6 {
+}.u-section-7 {
   background-image: none;
 }
 
-.u-section-6 .u-sheet-1 {
+.u-section-7 .u-sheet-1 {
   min-height: 690px;
 }
 
-.u-section-6 .u-image-1 {
+.u-section-7 .u-image-1 {
   width: 570px;
   height: 570px;
   background-image: url("images/Calibash-2022-Logo.png");
@@ -319,85 +335,69 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-6 .u-sheet-1 {
+  .u-section-7 .u-sheet-1 {
     min-height: 660px;
   }
 
-  .u-section-6 .u-image-1 {
+  .u-section-7 .u-image-1 {
     width: 540px;
     height: 540px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-6 .u-sheet-1 {
+  .u-section-7 .u-sheet-1 {
     min-height: 460px;
   }
 
-  .u-section-6 .u-image-1 {
+  .u-section-7 .u-image-1 {
     width: 340px;
     height: 340px;
-  }
-}.u-section-7 {
-  background-image: none;
-}
-
-.u-section-7 .u-sheet-1 {
-  min-height: 242px;
-}
-
-.u-section-7 .u-text-1 {
-  margin: 15px auto 0;
-}
-
-.u-section-7 .u-text-2 {
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 0;
-  background-image: none;
-}
-
-.u-section-7 .u-text-3 {
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 60px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-7 .u-sheet-1 {
-    min-height: 257px;
-  }
-
-  .u-section-7 .u-text-1 {
-    width: auto;
-    margin-top: 24px;
-  }
-
-  .u-section-7 .u-text-2 {
-    width: auto;
-    margin-top: 35px;
-  }
-
-  .u-section-7 .u-text-3 {
-    width: auto;
-    margin: 35px 46px 47px;
   }
 }.u-section-8 {
   background-image: none;
 }
 
 .u-section-8 .u-sheet-1 {
-  min-height: 226px;
+  min-height: 242px;
 }
 
-.u-section-8 .u-btn-1 {
-  border-style: solid;
-  text-transform: uppercase;
-  font-size: 1.5rem;
-  letter-spacing: 1px;
-  font-weight: 700;
-  margin: 60px auto;
-  padding: 24px 30px;
+.u-section-8 .u-text-1 {
+  margin: 15px auto 0;
+}
+
+.u-section-8 .u-text-2 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  background-image: none;
+}
+
+.u-section-8 .u-text-3 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 257px;
+  }
+
+  .u-section-8 .u-text-1 {
+    width: auto;
+    margin-top: 24px;
+  }
+
+  .u-section-8 .u-text-2 {
+    width: auto;
+    margin-top: 35px;
+  }
+
+  .u-section-8 .u-text-3 {
+    width: auto;
+    margin: 35px 46px 47px;
+  }
 }.u-section-9 {
   background-image: none;
 }
