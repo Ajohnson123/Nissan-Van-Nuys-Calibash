@@ -147,25 +147,25 @@
 
 @media (max-width: 767px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 549px;
+    min-height: 550px;
   }
 
   .u-section-6 .u-video-1 {
     height: 490px;
-    width: 721px;
-    margin: 30px -91px;
+    width: 455px;
+    margin-top: 30px;
+    margin-bottom: 30px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 473px;
+    min-height: 474px;
   }
 
   .u-section-6 .u-video-1 {
     height: 453px;
-    width: 701px;
-    margin: 10px -181px;
+    width: 291px;
   }
 }.u-section-7 {
   background-image: none;
