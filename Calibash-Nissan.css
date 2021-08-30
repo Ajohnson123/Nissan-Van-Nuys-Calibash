@@ -111,6 +111,8 @@
 }
 
 .u-section-5 .u-text-1 {
+  font-weight: normal;
+  text-transform: none;
   margin: 60px auto;
 }
 
@@ -121,8 +123,6 @@
 
 @media (max-width: 1199px) {
   .u-section-5 .u-text-1 {
-    font-weight: normal;
-    text-transform: none;
     width: 338px;
   }
 }.u-section-6 {
@@ -970,6 +970,8 @@
 }
 
 .u-section-15 .u-text-1 {
+  font-weight: normal;
+  text-transform: none;
   margin: 60px auto;
 }
 
@@ -980,8 +982,6 @@
 
 @media (max-width: 1199px) {
   .u-section-15 .u-text-1 {
-    font-weight: normal;
-    text-transform: none;
     width: 338px;
   }
 }
